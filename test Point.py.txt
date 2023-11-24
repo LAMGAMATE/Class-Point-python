@@ -1,0 +1,5 @@
+from Point import Point 
+a = point (2,5) 
+b = point (3,11)
+print (a.norme())
+print(a.distance(b))
